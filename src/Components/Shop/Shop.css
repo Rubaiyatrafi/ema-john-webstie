@@ -8,3 +8,18 @@
   gap: 45px;
   margin: 50px;
 }
+.proceed-link {
+  text-decoration: none;
+}
+.btn-proceed {
+  width: 90%;
+  height: 55px;
+  font-size: 20px;
+  margin: 10px auto;
+  background: #ff9900;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  align-items: center;
+}
